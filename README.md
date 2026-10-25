@@ -10,20 +10,6 @@
 
 </div>
 
----
-
-## 📺 Demo Video
-
-<!-- Edit this README on GitHub, drag your .mp4 here, and keep the generated link alone on its own line. -->
-
-https://github.com/user-attachments/assets/YOUR-VIDEO-ASSET-ID
-
-| Home | Map | Information |
-|:---:|:---:|:---:|
-| ![Home](docs/images/home.png) | ![Map](docs/images/map.png) | ![Info](docs/images/info.png) |
-
----
-
 ## ❗ Problem
 
 Traditional 2D maps are static, text-heavy and not very engaging. Google Maps and Apple Maps are great for navigation, but they lack:
